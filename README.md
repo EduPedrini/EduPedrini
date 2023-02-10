@@ -2,34 +2,22 @@
 
 
 ```javascript
-const Peterson Larson = {
-    code: [Nodejs, Typescript, Python],
-    askMeAbout: ["react-native", "react-js", "javascript", "frontend","devops", "backend", "crypto", "music", "games"],
+const Eduardo Luiz Pedrini = {
+    code: [Nodejs, Typescript, PHP,],
     technologies: {
-        backEnd: {
-            nodejs: ["express"],
-            typescript: ["nest.js", "typeorm", "featherjs", "react-native"],
-            python: ["flask", "django", "pandas", "peewee"]
-        },
         frontEnd: {
-            react: ["react-native", "styled-components", "context-api"],
+            react: ["react-native", "styled-components", angularJs],
             html: ["bootstrap"],
         }        
     },
     
-    databases: [PostgreSQL, MongoDB, MySQL, SQLite],
-    devops: [Kubernetes, Docker, Kafka],
+    databases: [PostgreSQL, MongoDB, MySQL, Firebird],
+    devops: [Kubernetes, Docker],
     utils: {
         system: {
-            linux: ["vscode", "postman", "insomnia", "beekeeper"],
-            windows: ["vscode", "unity", "docker"],       
-        },
-        games: {
-            steam: ["pubg", "rocket league", "sea of thieves"],
-            origin: ["battlefield 4"],
-            epic: ["the hunter", "cities skylines"],
-        },
-    
+            linux: ["vscode", "postman", "beekeeper"],
+            windows: ["vscode", "docker"],       
+        },  
 };
 ```
 
@@ -38,8 +26,8 @@ const Peterson Larson = {
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
 <div align="center">
   <a href="https://https://github.com/Diegochak">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pscodium&show_icons=true&theme=tokyonight&bg_color=120c3b&locale=en"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pscodium&show_icons=true&theme=cobalt&title_color=3a7eea&text_color=ffffff&bg_color=120c3b&locale=en&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduPedrini&show_icons=true&theme=tokyonight&bg_color=120c3b&locale=en"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduPedrini&show_icons=true&theme=cobalt&title_color=3a7eea&text_color=ffffff&bg_color=120c3b&locale=en&layout=compact"/>
 </div> 
 
 
